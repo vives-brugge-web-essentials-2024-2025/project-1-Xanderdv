@@ -13,7 +13,11 @@ body {
 .first-section {
     text-align: center;
     padding: 50px;
+<<<<<<< HEAD
     background-image: url('rescources/images/fotobehang-natuur-maakt-gelukkig.jpg');
+=======
+    background-image: url('/website/resources/images/fotobehang-natuur-maakt-gelukkig.jpg');
+>>>>>>> 1bf18f17c778fdecf873a3c2e40c0fe393462dbf
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
